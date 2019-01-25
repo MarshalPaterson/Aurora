@@ -1,3 +1,5 @@
+WORK IN PROGRESS, NOT READY YET.
+
 # Aurora
 
 [![CI Status](https://img.shields.io/travis/marshal.paterson/Aurora.svg?style=flat)](https://travis-ci.org/marshal.paterson/Aurora)
@@ -22,7 +24,7 @@ pod 'Aurora'
 
 ## Author
 
-marshal.paterson, marshal.paterson@star.com.au
+marshal.paterson
 
 ## License
 
