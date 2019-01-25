@@ -1,0 +1,22 @@
+{
+  "name": "Aurora",
+  "version": "0.1.0",
+  "summary": "A short description of Aurora.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/marshal.paterson/Aurora",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "marshal.paterson": "marshal.paterson@star.com.au"
+  },
+  "source": {
+    "git": "https://github.com/marshal.paterson/Aurora.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Aurora/Classes/**/*"
+}
